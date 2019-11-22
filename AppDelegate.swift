@@ -18,8 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         
         
-        jhefgtyghdewjhewuf
-        hgvdjehkwde
+        working with reset
         
         return true
     }
