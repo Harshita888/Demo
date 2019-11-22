@@ -12,7 +12,11 @@ import ScanditBarcodeScanner
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-    func One() {
+    func one() {
+    }
+    
+    func two(){
+        
     }
 
 
