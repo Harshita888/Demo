@@ -1,26 +1,19 @@
-//
-//  AppDelegate.swift
-//  Examples
-//
-//  Created by Joakim Gyllström on 2018-12-27.
-//  Copyright © 2018 Joakim Gyllström. All rights reserved.
-//
-
 import UIKit
+import Fabric
+import Crashlytics
+import IQKeyboardManagerSwift
+import UserNotifications
+import Firebase
+import FirebaseInstanceID
+import FirebaseMessaging
+import ScanditBarcodeScanner
 
+// MARK: - App delegates
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-    var window: UIWindow?
-
-    func application(_ application: UIApplication,  : [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
-        
-        
-        
-        working with reset
-        
-        return true
+    func One() {
     }
-}
 
+
+}
