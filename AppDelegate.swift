@@ -19,5 +19,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
     }
     
-
+    func three(){
+        
+    }
+    
+    func four(){
+        
+    }
+    
+    func five(){
+        
+    }
 }
