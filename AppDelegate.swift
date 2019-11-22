@@ -19,5 +19,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
     }
     
+    func three(){
+        
+    }
+    
 
 }
