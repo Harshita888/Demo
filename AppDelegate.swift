@@ -23,5 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
     }
     
-
+    func four(){
+        
+    }
 }
