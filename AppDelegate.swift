@@ -27,8 +27,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
     }
 
-    func four(){
-        
+    func four() -> Bool{
+
+
+
+
+
+        return true
     }
     
 
