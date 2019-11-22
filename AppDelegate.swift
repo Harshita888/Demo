@@ -18,6 +18,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func two(){
         
     }
+    
+    func THREE(){
+        
+    }
 
 
 }
